@@ -29,7 +29,7 @@
     "user-env": "^2.0.0"
   },
   "devDependencies": {
-    "electron-packager": "^4.0.0",
+    "electron-packager": "^13.0.0",
     "electron-prebuilt": "^0.36.4",
     "publish-release": "^1.0.1",
     "standard": "^3.2.1"
